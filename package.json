@@ -19,8 +19,16 @@
     "vite": "^3.1.0"
   },
   "main": "vite.config.js",
-  "keywords": [],
+  "keywords": ["hactoberfest","reactjs","vitejs","opensouce","apis"],
   "author": "Kumar Kalyan <kum9749ar@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumar-kalyan/rapid-api-hacktoberfest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kumar-kalyan/rapid-api-hacktoberfest/issues"
+  },
+  "homepage": "https://github.com/kumar-kalyan/rapid-api-hacktoberfest#readme",
   "description": ""
 }
